@@ -19,7 +19,7 @@ ubuntu16 () {
 	echo "" >> /etc/squid/squid.conf
 	echo "" >> /etc/squid/squid.conf
 	echo "# NOME DO SERVIDOR" >> /etc/squid/squid.conf
-	echo "visible_hostname JoeLinux" >> /etc/squid/squid.conf
+	echo "visible_hostname Xaviermoralex" >> /etc/squid/squid.conf
 	echo "" >> /etc/squid/squid.conf
 	echo "" >> /etc/squid/squid.conf
 	echo "# ACL DE CONEXAO" >> /etc/squid/squid.conf
@@ -81,7 +81,7 @@ ubuntu () {
 	echo "" >> /etc/squid3/squid.conf
 	echo "" >> /etc/squid3/squid.conf
 	echo "# NOME DO SERVIDOR" >> /etc/squid3/squid.conf
-	echo "visible_hostname JoeLinux" >> /etc/squid3/squid.conf
+	echo "visible_hostname xaviermoralex" >> /etc/squid3/squid.conf
 	echo "" >> /etc/squid3/squid.conf
 	echo "" >> /etc/squid3/squid.conf
 	echo "# ACL DE CONEXAO" >> /etc/squid3/squid.conf
@@ -146,7 +146,7 @@ debian () {
 	echo "" >> /etc/squid3/squid.conf
 	echo "" >> /etc/squid3/squid.conf
 	echo "# NOME DO SERVIDOR" >> /etc/squid3/squid.conf
-	echo "visible_hostname JoeLinux" >> /etc/squid3/squid.conf
+	echo "visible_hostname xaviermoralex" >> /etc/squid3/squid.conf
 	echo "" >> /etc/squid3/squid.conf
 	echo "" >> /etc/squid3/squid.conf
 	echo "# ACL DE CONEXAO" >> /etc/squid3/squid.conf
